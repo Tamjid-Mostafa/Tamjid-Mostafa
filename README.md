@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tamjid Mostafa</h1>
-<h3 align="center">MERN Stack Developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Tamjid Mostafa</h1>
+<h3 align="left">MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamjid-mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="tamjid-mostafa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjid-mostafa" alt="tamjid-mostafa" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@tamjid_mostafa" target="blank"><img src="https://img.shields.io/twitter/follow/@tamjid_mostafa?logo=twitter&style=for-the-badge" alt="@tamjid_mostafa" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Tamjid-Mostafa/portfolio-website-nextjs)
 
+- 🌱 I’m currently learning **Typescript, Next JS, Framer Motion**
+
 - 👨‍💻 All of my projects are available at [https://tamjid.netlify.app/](https://tamjid.netlify.app/)
+
+- 💬 Ask me about **react, mongodb, firebase**
 
 - 📫 How to reach me **tamjid430@gmail.com**
 
@@ -15,11 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@tamjid_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamjid_mostafa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tamjid-mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamjid-mostafa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:20717313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20717313" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tamjid-mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tamjid-mostafa" height="30" width="40" /></a>
 <a href="https://fb.com/tamjid.mostafa.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamjid.mostafa.3" height="30" width="40" /></a>
-<a href="https://instagram.com/@tamjid_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tamjid_mostafa" height="30" width="40" /></a>
+<a href="https://instagram.com/tamjid_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamjid_mostafa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@tamjidmostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tamjidmostafa" height="30" width="40" /></a>
 </p>
 
@@ -29,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjid-mostafa&show_icons=true&locale=en&layout=compact" alt="tamjid-mostafa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjid-mostafa&show_icons=true&locale=en" alt="tamjid-mostafa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjid-mostafa&" alt="tamjid-mostafa" /></p>
