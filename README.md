@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjid-mostafa" alt="tamjid-mostafa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@tamjid_mostafa" target="blank"><img src="https://img.shields.io/twitter/follow/@tamjid_mostafa?logo=twitter&style=for-the-badge" alt="@tamjid_mostafa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tamjid_Mostafa" target="blank"><img src="https://img.shields.io/twitter/follow/@tamjid_mostafa?logo=twitter&style=for-the-badge" alt="@tamjid_mostafa" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Tamjid-Mostafa/portfolio-website-nextjs)
 
