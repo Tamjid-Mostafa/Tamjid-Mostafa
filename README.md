@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next JS, Framer Motion**
 
-- 👨‍💻 All of my projects are available at [https://tamjid.netlify.app/](https://tamjid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://devtamjid.com/](https://devtamjid.com/)
 
 - 💬 Ask me about **react, mongodb, firebase**
 
