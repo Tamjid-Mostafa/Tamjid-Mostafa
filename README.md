@@ -7,18 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/tamjid_mostafa" target="blank"><img src="https://img.shields.io/twitter/follow/@tamjid_mostafa?logo=twitter&style=for-the-badge" alt="@tamjid_mostafa" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Tamjid-Mostafa/portfolio-website-nextjs)
-
-- 🌱 I’m currently learning **Typescript, Next JS, Framer Motion**
-
-- 👨‍💻 All of my projects are available at [https://devtamjid.com/](https://devtamjid.com/)
-
-- 💬 Ask me about **react, mongodb, firebase**
-
-- 📫 How to reach me **tamjid430@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tamjid_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamjid_mostafa" height="30" width="40" /></a>
